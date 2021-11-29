@@ -1,0 +1,15 @@
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\bin\Debug\net5.0\FinagoTechInterview.exe
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\bin\Debug\net5.0\FinagoTechInterview.deps.json
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\bin\Debug\net5.0\FinagoTechInterview.runtimeconfig.json
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\bin\Debug\net5.0\FinagoTechInterview.runtimeconfig.dev.json
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\bin\Debug\net5.0\FinagoTechInterview.dll
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\bin\Debug\net5.0\ref\FinagoTechInterview.dll
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\bin\Debug\net5.0\FinagoTechInterview.pdb
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\obj\Debug\net5.0\FinagoTechInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\obj\Debug\net5.0\FinagoTechInterview.AssemblyInfoInputs.cache
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\obj\Debug\net5.0\FinagoTechInterview.AssemblyInfo.cs
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\obj\Debug\net5.0\FinagoTechInterview.csproj.CoreCompileInputs.cache
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\obj\Debug\net5.0\FinagoTechInterview.dll
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\obj\Debug\net5.0\ref\FinagoTechInterview.dll
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\obj\Debug\net5.0\FinagoTechInterview.pdb
+C:\Users\akyuz\source\repos\FinagoTechInterview\FinagoTechInterview\obj\Debug\net5.0\FinagoTechInterview.genruntimeconfig.cache

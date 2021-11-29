@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FinagoTechInterview/1.0.0": {
+        "runtime": {
+          "FinagoTechInterview.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinagoTechInterview/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
